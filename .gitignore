@@ -1,0 +1,5 @@
+/.idea
+/__PYCACHE__
+/VENV
+mycreds.txt
+config.py
